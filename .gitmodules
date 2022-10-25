@@ -1,0 +1,6 @@
+[submodule "LemmaSplitting"]
+	path = LemmaSplitting
+	url = git@github.com:ryskina/LemmaSplitting.git
+[submodule "neural-transducer"]
+	path = neural-transducer
+	url = git@github.com:ryskina/neural-transducer.git
