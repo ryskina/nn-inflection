@@ -1,0 +1,12 @@
+ben --nn
+ceb --nn
+hin --nn
+kaz --nn
+kir --nn
+mlt --nn
+orm --nn
+sna --nn
+swa --nn
+tgk --nn
+tgl --nn
+zul --nn
